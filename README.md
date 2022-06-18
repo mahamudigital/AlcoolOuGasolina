@@ -8,3 +8,4 @@ constantes
 retirar regra de negócios da activity
 versão kotlin
 máscaras de valores
+criar tela splash
